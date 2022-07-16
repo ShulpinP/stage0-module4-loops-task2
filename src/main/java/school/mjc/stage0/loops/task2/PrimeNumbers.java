@@ -15,9 +15,9 @@ public class PrimeNumbers {
             j=1;
             if (count == 2) {
                 System.out.println(i);
-                count=0;
-            }
 
+            }
+            count=0;
             i++;
         }
     }
